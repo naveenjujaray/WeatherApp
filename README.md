@@ -1,9 +1,11 @@
-# WeatherApp
+# WeatherApp ![react](https://img.shields.io/badge/Reactjs-16.3.1-blue) ![lic](https://img.shields.io/github/license/naveenjujaray/WeatherApp) ![web](https://img.shields.io/website?url=https%3A%2F%2Fnaveenjujaray.github.io%2FWeatherApp%2F)
 
-[Live View]()
+For a live Example, [Click Here](https://naveenjujaray.github.io/WeatherApp/)
+
+![gif](gif.gif)
 
 ## Table of contents
-- [WeatherApp](#weatherapp)
+- [WeatherApp ![]](#weatherapp-)
   - [Table of contents](#table-of-contents)
   - [Instructions](#instructions)
   - [Description](#description)

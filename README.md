@@ -5,7 +5,6 @@ For a live Example, [Click Here](https://naveenjujaray.github.io/WeatherApp/)
 ![gif](gif.gif)
 
 ## Table of contents
-  - [Table of contents](#table-of-contents)
   - [Instructions](#instructions)
   - [Description](#description)
   - [Technologies](#technologies)
